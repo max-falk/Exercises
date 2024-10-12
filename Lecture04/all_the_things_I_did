@@ -1,0 +1,65 @@
+commit 9c44f899be8d130abc3013dfa9c1ef9ea58ab7ef
+Author: max-falk <anonymous>
+Date:   Sat Oct 12 13:13:39 2024 +0100
+
+    Updates tar content, coolscript
+
+commit 567cf0a9078e9b5c35dac71a7579303002b8e639
+Author: max-falk <anonymous>
+Date:   Sat Oct 12 13:12:11 2024 +0100
+
+    Another update to my_cool_script
+
+commit 4949ccbe5068c07419dc124b53be8f7a1a4b850f
+Author: max-falk <anonymous>
+Date:   Sat Oct 12 13:06:20 2024 +0100
+
+    Added my_cool_script
+
+commit 59bd0bdba67b2872fd0e058370bcde5555e7c53d
+Author: max-falk <anonymous>
+Date:   Sat Oct 12 13:03:27 2024 +0100
+
+    Created tar and added updated version of someotherfile
+
+commit cde65607d7541487758e9a4b0e76e5e237ee2a2c
+Author: max-falk <anonymous>
+Date:   Sat Oct 12 12:58:54 2024 +0100
+
+    Second version of the someotherfile.sh shell script
+
+commit ae27275ee32e33ae57733315d09d54060d9fe172
+Author: max-falk <anonymous>
+Date:   Sat Oct 12 12:55:21 2024 +0100
+
+    Added the someotherfile.sh shell script
+
+commit 38acdde0f9fc1dc50f62e5f524c93fa18b0eff42
+Author: B270551-2024 <anonymous>
+Date:   Tue Oct 8 12:46:29 2024 +0100
+
+    Lecture 7 content committed - just .acc files and sequence
+
+commit cf99119ec2c2384c84267c03755123f002af14b6
+Author: B270551-2024 <anonymous>
+Date:   Fri Oct 4 11:55:54 2024 +0100
+
+    Adding week3 BLAST nematode material
+
+commit 1ab560e62a71dec0c99ad156fbbc2dae299b73ab
+Author: B270551-2024 <anonymous>
+Date:   Fri Sep 27 12:27:39 2024 +0100
+
+    Adding initial tar file
+
+commit 50ea5158da660e1558d50100ff776413a580bd82
+Author: B270551-2024 <anonymous>
+Date:   Fri Sep 27 12:26:31 2024 +0100
+
+    CodeFiles all done and tar zipped
+
+commit 311c2ecac4f61d05d319967f135fa81415ac0966
+Author: B270551-2024 <anonymous>
+Date:   Fri Sep 27 12:21:04 2024 +0100
+
+    First file added
