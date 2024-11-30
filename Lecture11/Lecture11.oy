@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+sequence = "ACTGATCGATTACGTATAGTATTTGCTATCATACATATATATCGATGCGTTCAT"
+T_count = sequence.count("T")
+A_count = sequence.count("A")
+AT_proportion = (T_count + A_count) / len(sequence)
+print(AT_proportion)
+
+
