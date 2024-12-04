@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+
+genedata = open("data.csv")
+
+#Q1 - printing gene names 
+for geneline in genedata :
+	gene_info = geneline.split(",")
+	species = gene_info[0]
+	gene_seq = gene_info[1].upper
+	genenames = gene_info[2]
+	expressionlevel = int(gene_info[3])	
+
+	if "melanogaster" in species or "simulans" in species :
+		print(species,m 
+
+)
+	else : 
+		print("BIG FAT EFFING FAIL")
+
+#Q2 - printing for 90-110 bases long 
+	if len(genenames) < 110 and  len(genenames) > 90 :
+		print(genenames)
+
+
+
+
